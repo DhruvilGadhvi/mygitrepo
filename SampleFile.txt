@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Just one sample text file and made changes
+=======
+Just one sample text file .
+updated version
+>>>>>>> 39d4e1ab0a76ffaa53729c28fe36129c3d343451
